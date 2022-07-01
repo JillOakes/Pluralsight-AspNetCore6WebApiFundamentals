@@ -26,3 +26,7 @@ C:\Users\jill.oakes\source\repos\CityInfo\CityInfo.API\obj\Debug\net6.0\CityInfo
 C:\Users\jill.oakes\source\repos\CityInfo\CityInfo.API\obj\Debug\net6.0\CityInfo.API.genruntimeconfig.cache
 C:\Users\jill.oakes\source\repos\CityInfo\CityInfo.API\obj\Debug\net6.0\ref\CityInfo.API.dll
 C:\Users\jill.oakes\source\repos\CityInfo\CityInfo.API\bin\Debug\net6.0\getting-started-with-rest-slides.pdf
+C:\Users\jill.oakes\source\repos\CityInfo\CityInfo.API\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\jill.oakes\source\repos\CityInfo\CityInfo.API\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\jill.oakes\source\repos\CityInfo\CityInfo.API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\jill.oakes\source\repos\CityInfo\CityInfo.API\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
