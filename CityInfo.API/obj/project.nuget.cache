@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "zt9M3SOdVDrmNMnuERD3yS8nf/ot/QvILn33bHMHe+rfqbV01w73Vs7iJVXSOzC98mAvO+ji2/gHh3qPBpfgeQ==",
+  "dgSpecHash": "V0FOHgwYigts6bm9Nh8RQqY8HbHb0L+hcjCH5cX1QSk9D/bonBpSrc6z6+BNM6YSy5VaYF+AOX82wFg+pwmr0g==",
   "success": true,
   "projectFilePath": "C:\\Users\\jill.oakes\\source\\repos\\CityInfo\\CityInfo.API\\CityInfo.API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\jill.oakes\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
+    "C:\\Users\\jill.oakes\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
     "C:\\Users\\jill.oakes\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\jill.oakes\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\6.0.6\\microsoft.aspnetcore.jsonpatch.6.0.6.nupkg.sha512",
     "C:\\Users\\jill.oakes\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\6.0.6\\microsoft.aspnetcore.mvc.newtonsoftjson.6.0.6.nupkg.sha512",
