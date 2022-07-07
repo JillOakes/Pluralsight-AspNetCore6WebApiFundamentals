@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "62NTHy9WyROzz8yQ7RWTlb9C/om9oQCPNTN0HGF8upV3HXmXoH7tmM9CQ5cIUoVXin8kdiYpGIrZ0tOvKluNNA==",
+  "dgSpecHash": "AW8XoyR7rllNv9VTL0U4Uw64/mNq+AUyYV7uHzSuiiedIgtzHo73pP6KrlAdPgANrOh7v6EEzgffHDh3O9F9lw==",
   "success": true,
   "projectFilePath": "C:\\Users\\jill.oakes\\source\\repos\\CityInfo\\CityInfo.API\\CityInfo.API.csproj",
   "expectedPackageFiles": [
@@ -10,6 +10,7 @@
     "C:\\Users\\jill.oakes\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.0\\microsoft.aspnetcore.authentication.jwtbearer.6.0.0.nupkg.sha512",
     "C:\\Users\\jill.oakes\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\6.0.6\\microsoft.aspnetcore.jsonpatch.6.0.6.nupkg.sha512",
     "C:\\Users\\jill.oakes\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\6.0.6\\microsoft.aspnetcore.mvc.newtonsoftjson.6.0.6.nupkg.sha512",
+    "C:\\Users\\jill.oakes\\.nuget\\packages\\microsoft.aspnetcore.mvc.versioning\\5.0.0\\microsoft.aspnetcore.mvc.versioning.5.0.0.nupkg.sha512",
     "C:\\Users\\jill.oakes\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\jill.oakes\\.nuget\\packages\\microsoft.data.sqlite.core\\6.0.0\\microsoft.data.sqlite.core.6.0.0.nupkg.sha512",
     "C:\\Users\\jill.oakes\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.0\\microsoft.entityframeworkcore.6.0.0.nupkg.sha512",
